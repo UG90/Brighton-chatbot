@@ -1,0 +1,8 @@
+{
+  "name": "Brighton International School Assistant",
+  "description": "Interactive admissions and academic advisor chatbot for Brighton International School with comprehensive course catalogs, admission guides, fee estimation, and campus tour bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
